@@ -1,0 +1,21 @@
+//Blocks
+tile.araucaria_log.name=Araucaria Log
+tile.araucaria_planks.name=Araucaria Planks
+
+tile.cedar_log.name=Cedar Log
+tile.cedar_planks.name=Cedar Planks
+
+tile.celery_log.name=Celery Log
+tile.celery_planks.name=Celery Planks
+
+//Items
+item.araucaria_stick.name=Araucaria Stick
+item.cedar_stick.name=Cedar Stick
+item.celery_stick.name=Celery Stick
+
+//Tabs
+itemGroup.lumberblockstab=Lumber Blocks Tab
+itemGroup.lumbermaterialstab=Lumber Materials Tab
+itemGroup.lumberfoodtab=Lumber Food Tab
+itemGroup.lumbertoolstab=Lumber Tools Tab
+itemGroup.lumbercombattab=Lumber Combat Tab

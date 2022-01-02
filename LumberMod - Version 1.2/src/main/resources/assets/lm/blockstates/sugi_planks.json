@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "lm:sugi_planks" }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "lm:japanese_yew_log" }
+    }
+}

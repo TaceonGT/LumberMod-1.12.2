@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "lm:blocks/coast_redwood_log"
+   }
+}

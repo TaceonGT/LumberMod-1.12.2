@@ -1,0 +1,88 @@
+//Blocks
+tile.araucaria_log.name=Araucaria Log
+tile.araucaria_planks.name=Araucaria Planks
+tile.cedar_log.name=Cedar Log
+tile.cedar_planks.name=Cedar Planks
+tile.celery_log.name=Celery Log
+tile.celery_planks.name=Celery Planks
+
+tile.cypress_log.name=Cypress Log
+tile.cypress_planks.name=Cypress Planks
+tile.douglas_fir_log.name=Douglas Fir Log
+tile.douglas_fir_planks.name=Douglas Fir Planks
+tile.european_yew_log.name=European Yew Log
+tile.european_yew_planks.name=European Yew Planks
+tile.fir_log.name=Fir Log
+tile.fir_planks.name=Fir Planks
+tile.hemlock_log.name=Hemlock Log
+tile.hemlock_planks.name=Hemlock Planks
+tile.huon_pine_log.name=Huon Pine Log
+tile.huon_pine_planks.name=Huon Pine Planks
+tile.kauri_log.name=Kauri Log
+tile.kauri_planks.name=Kauri Planks
+tile.queensland_kauri_log.name=Queensland Kauri Log
+tile.queensland_kauri_planks.name=Queensland Kauri Planks
+
+tile.cherry_log.name=Cherry Log
+tile.cherry_planks.name=Cherry Planks
+tile.lava_log.name=Lava Log
+tile.lava_planks.name=Lava Planks
+tile.shimmer_log.name=Shimmer Log
+tile.shimmer_planks.name=Shimmer Planks
+tile.zombie_log.name=Zombie Log
+tile.zombie_planks.name=Zombie Planks
+
+tile.coast_redwood_log.name=Coast Redwood Log
+tile.coast_redwood_planks.name=Coast Redwood Planks
+tile.japanese_yew_log.name=Japanese Yew Log
+tile.japanese_yew_planks.name=Japanese Yew Planks
+tile.larch_log.name=Larch Log
+tile.larch_planks.name=Larch Planks
+tile.nootka_cypress_log.name=Nootka Cypress Log
+tile.nootka_cypress_planks.name=Nootka Cypress Planks
+tile.pine_log.name=Pine Log
+tile.pine_planks.name=Pine Planks
+tile.red_cedar_log.name=Red Cedar Log
+tile.red_cedar_planks.name=Red Cedar Planks
+tile.rimu_log.name=Rimu Log
+tile.rimu_planks.name=Rimu Planks
+tile.sugi_log.name=Sugi Log
+tile.sugi_planks.name=Sugi Planks
+tile.white_cedar_log.name=White Cedar Log
+tile.white_cedar_planks.name=White Cedar Planks
+
+//Items
+item.araucaria_stick.name=Araucaria Stick
+item.cedar_stick.name=Cedar Stick
+item.celery_stick.name=Celery Stick
+
+item.cypress_stick.name=Cypress Stick
+item.douglas_fir_stick.name=Douglas Fir Stick
+item.european_yew_stick.name=European Yew Stick
+item.fir_stick.name=Fir Stick
+item.hemlock_stick.name=Hemlock Stick
+item.huon_pine_stick.name=Huon Pine Stick
+item.kauri_stick.name=Kauri Stick
+item.queensland_kauri_stick.name=Queensland Kauri Stick
+
+item.cherry_stick.name=Cherry Stick
+item.lava_stick.name=Lava Stick
+item.shimmer_stick.name=Shimmer Stick
+item.zombie_stick.name=Zombie Stick
+
+item.coast_redwood_stick.name=Coast Redwood Stick
+item.japanese_yew_stick.name=Japanese Yew Stick
+item.larch_stick.name=Larch Stick
+item.nootka_cypress_stick.name=Nootka Cypress Stick
+item.pine_stick.name=Pine Stick
+item.red_cedar_stick.name=Red Cedar Stick
+item.rimu_stick.name=Rimu Stick
+item.sugi_stick.name=Sugi Stick
+item.white_cedar_stick.name=White Cedar Stick
+
+//Tabs
+itemGroup.lumberblockstab=Lumber Blocks Tab
+itemGroup.lumbermaterialstab=Lumber Materials Tab
+itemGroup.lumberfoodtab=Lumber Food Tab
+itemGroup.lumbertoolstab=Lumber Tools Tab
+itemGroup.lumbercombattab=Lumber Combat Tab
